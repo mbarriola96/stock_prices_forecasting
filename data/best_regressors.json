@@ -1,1 +1,1 @@
-{"chosen_regressors": ["Close_Lam_Research_Corporation", "Close_Carl_Zeiss_Meditec", "New_Product_Launch", "COVID_Period", "Trade_Sanctions"]}
+{"chosen_regressors": ["Close_Lam_Research_Corporation", "Trade_Sanctions", "Close_Carl_Zeiss_Meditec", "New_Product_Launch", "Israel_Gaza_Conflict"]}
