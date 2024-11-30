@@ -72,9 +72,9 @@ To improve these results, we could focus on two key areas:
 
 To improve these results, we could focus on:
 
--1. Integration of Real-Time Data: Incorporate live stock price updates and external factors (e.g., breaking news, real-time geopolitical events) into the model to enable dynamic forecasting. This could make the predictions more accurate and responsive to sudden market changes.
+- 1. Integration of Real-Time Data: Incorporate live stock price updates and external factors (e.g., breaking news, real-time geopolitical events) into the model to enable dynamic forecasting. This could make the predictions more accurate and responsive to sudden market changes.
 
--2. Advanced Feature Engineering: Enhance the dataset with additional relevant features, such as sentiment analysis of news articles or tweets about ASML and its suppliers. This can be achieved by leveraging the existing project, Brands-Product_Emotions_Analysis, to perform sentiment analysis on social media data. Incorporating these sentiment features would help capture market sentiment more effectively and improve the model's ability to predict stock price movements under varying conditions.
+- 2. Advanced Feature Engineering: Enhance the dataset with additional relevant features, such as sentiment analysis of news articles or tweets about ASML and its suppliers. This can be achieved by leveraging the existing project, Brands-Product_Emotions_Analysis, to perform sentiment analysis on social media data. Incorporating these sentiment features would help capture market sentiment more effectively and improve the model's ability to predict stock price movements under varying conditions.
 
 
 ## Author
