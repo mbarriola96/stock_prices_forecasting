@@ -47,9 +47,11 @@ The notebook prepares ASML and supplier data by combining weekly stock data with
 The notebook forecasts ASML stock prices using SARIMAX, Prophet, XGBoost, and Random Forest, with Prophet achieving the best results using exogenous variables. Fine-tuned for improved RMSE and MAPE, Prophet was selected as the primary model and saved for future use.
 
 - 7. 06_model_comparison.
+
 The notebook compares Prophet models for ASML stock prices, showing improved accuracy (lower MAPE and RMSE) when incorporating supplier and geopolitical data. This highlights the value of external variables in capturing market influences for adaptive planning and decision-making.
 
 - 8. 07_future_predictions.
+
 The notebook uses Prophet models to predict ASML stock prices, incorporating exogenous variables like geopolitical events and supplier performance. Supplier forecasts were integrated into the ASML model, providing insights into future trends and external impacts.
 
 
