@@ -1,8 +1,8 @@
 {
-    "changepoint_prior_scale": 0.801,
-    "daily_seasonality": true,
+    "changepoint_prior_scale": 1.00167,
+    "daily_seasonality": false,
     "seasonality_mode": "multiplicative",
-    "seasonality_prior_scale": 6.01,
-    "weekly_seasonality": false,
+    "seasonality_prior_scale": 6.67333,
+    "weekly_seasonality": true,
     "yearly_seasonality": true
 }
