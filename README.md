@@ -78,6 +78,9 @@ To improve these results, we could focus on:
 
 - 2. Advanced Feature Engineering: Enhance the dataset with additional relevant features, such as sentiment analysis of news articles or tweets about ASML and its suppliers. This can be achieved by leveraging the existing project, Brands-Product_Emotions_Analysis, to perform sentiment analysis on social media data. Incorporating these sentiment features would help capture market sentiment more effectively and improve the model's ability to predict stock price movements under varying conditions.
 
+## Presentation
+
+Here is the link to my presentation: [Stock Prices Forecasting Presentation](https://github.com/mbarriola96/stock_prices_forecasting/blob/main/presentation.pdf)
 
 ## Author
 
