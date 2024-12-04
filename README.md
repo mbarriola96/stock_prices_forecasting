@@ -69,7 +69,7 @@ Here we have a graph comparing both models:
 
 We have predicted the weekly stock prices for the next two weeks starting from November 28, 2024, for ASML's suppliers and exogenous variables. These predictions allowed us to forecast ASML's stock prices for the same period. The results are displayed in the following chart:
 
-![Predictions vs Actuals](/visualizations/values_predicted_actual.png)
+![Predictions vs Actuals](/visualizations/predicted_vs_actual.png)
 
 ![ASML Predicted Stock](/visualizations/asml_predicted_stock.png)
 
